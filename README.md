@@ -1,4 +1,4 @@
-# Create a Book class that allows for Book title, author, description, price and isInStock variables
+## Create a Book class that allows for Book title, author, description, price and isInStock variables
 
         The Book class shall contain private member variables, a default constructor, an overloaded constructor and 
         a method called getDisplayText() which prints the author, title and description.
